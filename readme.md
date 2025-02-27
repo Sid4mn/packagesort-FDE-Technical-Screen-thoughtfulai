@@ -2,7 +2,7 @@ Hi,
 
 Thanks for this quick tech screen, I had previously hosted this on replit, but unfortunately ran out of free resources.
 
-##Files
+#Files
 - **`main.py`**  
   Contains the `sort` function with input validation and classification logic.
   
